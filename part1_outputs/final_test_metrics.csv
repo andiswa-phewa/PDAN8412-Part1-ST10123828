@@ -1,0 +1,2 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,balanced_accuracy
+Improved Bidirectional LSTM,0.4390735146022155,0.44283975056614644,0.4778695020277025,0.4428985605344115,0.4778695020277025
